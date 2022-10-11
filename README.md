@@ -5,7 +5,21 @@
 To get json and csv raw data
 `go run presiednet.co`
 
-
+## JSON structure
+`[
+ {
+  "id": 2,
+  "name": "Kandidat 1",
+  "totalVotes": 82,
+  "percentage": 48.52
+ },
+ {
+  "id": 2,
+  "name": "Kandidat 2",
+  "totalVotes": 78,
+  "percentage": 46.15
+ },
+ ]`
 ## CSV table structure
 | Id  | Name  | TotalVotes  | Percentage  |
 |---|---|---|---|
