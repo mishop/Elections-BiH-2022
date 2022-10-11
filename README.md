@@ -2,8 +2,8 @@
 
 ## CSV and JSON data BiH elections 2022
 
-To get json and csv raw data
-`go run presiednet.co`
+To get json and csv raw data run command:
+`go run presiednet.go`
 
 ## JSON structure
 ```
