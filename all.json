@@ -1,0 +1,7442 @@
+[
+ {
+  "id": 2,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 82,
+  "percentage": 48.52
+ },
+ {
+  "id": 2,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 78,
+  "percentage": 46.15
+ },
+ {
+  "id": 2,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 2,
+  "percentage": 1.18
+ },
+ {
+  "id": 2,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 1.18
+ },
+ {
+  "id": 2,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.59
+ },
+ {
+  "id": 2,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 1,
+  "percentage": 0.59
+ },
+ {
+  "id": 2,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.59
+ },
+ {
+  "id": 2,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.59
+ },
+ {
+  "id": 2,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.59
+ },
+ {
+  "id": 2,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 2,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 96,
+  "percentage": 56.14
+ },
+ {
+  "id": 3,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 67,
+  "percentage": 39.18
+ },
+ {
+  "id": 3,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 2,
+  "percentage": 1.17
+ },
+ {
+  "id": 3,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 1.17
+ },
+ {
+  "id": 3,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 1,
+  "percentage": 0.58
+ },
+ {
+  "id": 3,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.58
+ },
+ {
+  "id": 3,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.58
+ },
+ {
+  "id": 3,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.58
+ },
+ {
+  "id": 3,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 3,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 157,
+  "percentage": 64.08
+ },
+ {
+  "id": 4,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 77,
+  "percentage": 31.43
+ },
+ {
+  "id": 4,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.82
+ },
+ {
+  "id": 4,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 2,
+  "percentage": 0.82
+ },
+ {
+  "id": 4,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 4,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 4,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 56,
+  "percentage": 56.57
+ },
+ {
+  "id": 5,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 31,
+  "percentage": 31.31
+ },
+ {
+  "id": 5,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 3,
+  "percentage": 3.03
+ },
+ {
+  "id": 5,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 2,
+  "percentage": 2.02
+ },
+ {
+  "id": 5,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 2,
+  "percentage": 2.02
+ },
+ {
+  "id": 5,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 1.01
+ },
+ {
+  "id": 5,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 1,
+  "percentage": 1.01
+ },
+ {
+  "id": 5,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 1,
+  "percentage": 1.01
+ },
+ {
+  "id": 5,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 1.01
+ },
+ {
+  "id": 5,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 1.01
+ },
+ {
+  "id": 5,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 5,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 144,
+  "percentage": 47.68
+ },
+ {
+  "id": 6,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 143,
+  "percentage": 47.35
+ },
+ {
+  "id": 6,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 5,
+  "percentage": 1.66
+ },
+ {
+  "id": 6,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.66
+ },
+ {
+  "id": 6,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 2,
+  "percentage": 0.66
+ },
+ {
+  "id": 6,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.66
+ },
+ {
+  "id": 6,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 6,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 6,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 6,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 6,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 6,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 127,
+  "percentage": 48.29
+ },
+ {
+  "id": 7,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 117,
+  "percentage": 44.49
+ },
+ {
+  "id": 7,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 11,
+  "percentage": 4.18
+ },
+ {
+  "id": 7,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 3,
+  "percentage": 1.14
+ },
+ {
+  "id": 7,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 2,
+  "percentage": 0.76
+ },
+ {
+  "id": 7,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 7,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 7,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 7,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 7,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 204,
+  "percentage": 52.17
+ },
+ {
+  "id": 8,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 148,
+  "percentage": 37.85
+ },
+ {
+  "id": 8,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 23,
+  "percentage": 5.88
+ },
+ {
+  "id": 8,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 4,
+  "percentage": 1.02
+ },
+ {
+  "id": 8,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 3,
+  "percentage": 0.77
+ },
+ {
+  "id": 8,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.51
+ },
+ {
+  "id": 8,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.26
+ },
+ {
+  "id": 8,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 8,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 77,
+  "percentage": 41.18
+ },
+ {
+  "id": 9,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 51,
+  "percentage": 27.27
+ },
+ {
+  "id": 9,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 28,
+  "percentage": 14.97
+ },
+ {
+  "id": 9,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 15,
+  "percentage": 8.02
+ },
+ {
+  "id": 9,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 11,
+  "percentage": 5.88
+ },
+ {
+  "id": 9,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 9,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 9,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 9,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 9,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 9,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 9,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 114,
+  "percentage": 41.76
+ },
+ {
+  "id": 10,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 98,
+  "percentage": 35.9
+ },
+ {
+  "id": 10,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 26,
+  "percentage": 9.52
+ },
+ {
+  "id": 10,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 15,
+  "percentage": 5.49
+ },
+ {
+  "id": 10,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 13,
+  "percentage": 4.76
+ },
+ {
+  "id": 10,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.73
+ },
+ {
+  "id": 10,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.37
+ },
+ {
+  "id": 10,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.37
+ },
+ {
+  "id": 10,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.37
+ },
+ {
+  "id": 10,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.37
+ },
+ {
+  "id": 10,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.37
+ },
+ {
+  "id": 10,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 10,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 135,
+  "percentage": 45
+ },
+ {
+  "id": 11,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 90,
+  "percentage": 30
+ },
+ {
+  "id": 11,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 38,
+  "percentage": 12.67
+ },
+ {
+  "id": 11,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 13,
+  "percentage": 4.33
+ },
+ {
+  "id": 11,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 7,
+  "percentage": 2.33
+ },
+ {
+  "id": 11,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 6,
+  "percentage": 2
+ },
+ {
+  "id": 11,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 5,
+  "percentage": 1.67
+ },
+ {
+  "id": 11,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 11,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 11,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 11,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 11,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 11,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.33
+ },
+ {
+  "id": 11,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 11,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 235,
+  "percentage": 49.89
+ },
+ {
+  "id": 12,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 216,
+  "percentage": 45.86
+ },
+ {
+  "id": 12,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 5,
+  "percentage": 1.06
+ },
+ {
+  "id": 12,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 3,
+  "percentage": 0.64
+ },
+ {
+  "id": 12,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 3,
+  "percentage": 0.64
+ },
+ {
+  "id": 12,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.42
+ },
+ {
+  "id": 12,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 12,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 12,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 259,
+  "percentage": 56.3
+ },
+ {
+  "id": 13,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 163,
+  "percentage": 35.43
+ },
+ {
+  "id": 13,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 13,
+  "percentage": 2.83
+ },
+ {
+  "id": 13,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 4,
+  "percentage": 0.87
+ },
+ {
+  "id": 13,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 3,
+  "percentage": 0.65
+ },
+ {
+  "id": 13,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 2,
+  "percentage": 0.43
+ },
+ {
+  "id": 13,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.43
+ },
+ {
+  "id": 13,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 2,
+  "percentage": 0.43
+ },
+ {
+  "id": 13,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.43
+ },
+ {
+  "id": 13,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.22
+ },
+ {
+  "id": 13,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 13,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 277,
+  "percentage": 57.23
+ },
+ {
+  "id": 14,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 195,
+  "percentage": 40.29
+ },
+ {
+  "id": 14,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 3,
+  "percentage": 0.62
+ },
+ {
+  "id": 14,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.21
+ },
+ {
+  "id": 14,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 14,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 29,
+  "percentage": 70.73
+ },
+ {
+  "id": 15,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 11,
+  "percentage": 26.83
+ },
+ {
+  "id": 15,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 2.44
+ },
+ {
+  "id": 15,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 15,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 171,
+  "percentage": 51.82
+ },
+ {
+  "id": 16,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 152,
+  "percentage": 46.06
+ },
+ {
+  "id": 16,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.61
+ },
+ {
+  "id": 16,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 16,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 16,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 16,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 16,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 16,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 16,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 134,
+  "percentage": 52.55
+ },
+ {
+  "id": 17,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 99,
+  "percentage": 38.82
+ },
+ {
+  "id": 17,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 11,
+  "percentage": 4.31
+ },
+ {
+  "id": 17,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 4,
+  "percentage": 1.57
+ },
+ {
+  "id": 17,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.78
+ },
+ {
+  "id": 17,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.39
+ },
+ {
+  "id": 17,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.39
+ },
+ {
+  "id": 17,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 1,
+  "percentage": 0.39
+ },
+ {
+  "id": 17,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.39
+ },
+ {
+  "id": 17,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.39
+ },
+ {
+  "id": 17,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 17,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 202,
+  "percentage": 72.4
+ },
+ {
+  "id": 18,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 50,
+  "percentage": 17.92
+ },
+ {
+  "id": 18,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 23,
+  "percentage": 8.24
+ },
+ {
+  "id": 18,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 3,
+  "percentage": 1.08
+ },
+ {
+  "id": 18,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 1,
+  "percentage": 0.36
+ },
+ {
+  "id": 18,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 18,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 81,
+  "percentage": 45.25
+ },
+ {
+  "id": 19,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 66,
+  "percentage": 36.87
+ },
+ {
+  "id": 19,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 17,
+  "percentage": 9.5
+ },
+ {
+  "id": 19,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 6,
+  "percentage": 3.35
+ },
+ {
+  "id": 19,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 5,
+  "percentage": 2.79
+ },
+ {
+  "id": 19,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 1,
+  "percentage": 0.56
+ },
+ {
+  "id": 19,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 1,
+  "percentage": 0.56
+ },
+ {
+  "id": 19,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.56
+ },
+ {
+  "id": 19,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 1,
+  "percentage": 0.56
+ },
+ {
+  "id": 19,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 19,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 281,
+  "percentage": 54.25
+ },
+ {
+  "id": 20,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 216,
+  "percentage": 41.7
+ },
+ {
+  "id": 20,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 5,
+  "percentage": 0.97
+ },
+ {
+  "id": 20,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 4,
+  "percentage": 0.77
+ },
+ {
+  "id": 20,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 3,
+  "percentage": 0.58
+ },
+ {
+  "id": 20,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.39
+ },
+ {
+  "id": 20,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.39
+ },
+ {
+  "id": 20,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.19
+ },
+ {
+  "id": 20,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 1,
+  "percentage": 0.19
+ },
+ {
+  "id": 20,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 1,
+  "percentage": 0.19
+ },
+ {
+  "id": 20,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 1,
+  "percentage": 0.19
+ },
+ {
+  "id": 20,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 1,
+  "percentage": 0.19
+ },
+ {
+  "id": 20,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 20,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 41,
+  "percentage": 54.67
+ },
+ {
+  "id": 21,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 31,
+  "percentage": 41.33
+ },
+ {
+  "id": 21,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 1,
+  "percentage": 1.33
+ },
+ {
+  "id": 21,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 1.33
+ },
+ {
+  "id": 21,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 1,
+  "percentage": 1.33
+ },
+ {
+  "id": 21,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 21,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 39,
+  "percentage": 49.37
+ },
+ {
+  "id": 22,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 38,
+  "percentage": 48.1
+ },
+ {
+  "id": 22,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 1.27
+ },
+ {
+  "id": 22,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 1,
+  "percentage": 1.27
+ },
+ {
+  "id": 22,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 22,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 43,
+  "percentage": 55.84
+ },
+ {
+  "id": 23,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 32,
+  "percentage": 41.56
+ },
+ {
+  "id": 23,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 1.3
+ },
+ {
+  "id": 23,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 1.3
+ },
+ {
+  "id": 23,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 23,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 64,
+  "percentage": 52.89
+ },
+ {
+  "id": 24,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 53,
+  "percentage": 43.8
+ },
+ {
+  "id": 24,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.83
+ },
+ {
+  "id": 24,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.83
+ },
+ {
+  "id": 24,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.83
+ },
+ {
+  "id": 24,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.83
+ },
+ {
+  "id": 24,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 24,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 103,
+  "percentage": 52.02
+ },
+ {
+  "id": 25,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 92,
+  "percentage": 46.46
+ },
+ {
+  "id": 25,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.51
+ },
+ {
+  "id": 25,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.51
+ },
+ {
+  "id": 25,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.51
+ },
+ {
+  "id": 25,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 25,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 115,
+  "percentage": 52.75
+ },
+ {
+  "id": 26,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 95,
+  "percentage": 43.58
+ },
+ {
+  "id": 26,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 2,
+  "percentage": 0.92
+ },
+ {
+  "id": 26,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 2,
+  "percentage": 0.92
+ },
+ {
+  "id": 26,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.46
+ },
+ {
+  "id": 26,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.46
+ },
+ {
+  "id": 26,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.46
+ },
+ {
+  "id": 26,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.46
+ },
+ {
+  "id": 26,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 26,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 69,
+  "percentage": 51.88
+ },
+ {
+  "id": 27,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 61,
+  "percentage": 45.86
+ },
+ {
+  "id": 27,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 27,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 27,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 27,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 27,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 194,
+  "percentage": 53.59
+ },
+ {
+  "id": 28,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 153,
+  "percentage": 42.27
+ },
+ {
+  "id": 28,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 6,
+  "percentage": 1.66
+ },
+ {
+  "id": 28,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 3,
+  "percentage": 0.83
+ },
+ {
+  "id": 28,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.55
+ },
+ {
+  "id": 28,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 1,
+  "percentage": 0.28
+ },
+ {
+  "id": 28,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.28
+ },
+ {
+  "id": 28,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.28
+ },
+ {
+  "id": 28,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.28
+ },
+ {
+  "id": 28,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 28,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 169,
+  "percentage": 51.52
+ },
+ {
+  "id": 29,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 150,
+  "percentage": 45.73
+ },
+ {
+  "id": 29,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.61
+ },
+ {
+  "id": 29,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.3
+ },
+ {
+  "id": 29,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 29,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 67,
+  "percentage": 50.38
+ },
+ {
+  "id": 30,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 53,
+  "percentage": 39.85
+ },
+ {
+  "id": 30,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 4,
+  "percentage": 3.01
+ },
+ {
+  "id": 30,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 1.5
+ },
+ {
+  "id": 30,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 2,
+  "percentage": 1.5
+ },
+ {
+  "id": 30,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 30,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 30,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 30,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 30,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.75
+ },
+ {
+  "id": 30,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 30,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 79,
+  "percentage": 66.39
+ },
+ {
+  "id": 31,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 38,
+  "percentage": 31.93
+ },
+ {
+  "id": 31,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.84
+ },
+ {
+  "id": 31,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.84
+ },
+ {
+  "id": 31,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 31,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 57,
+  "percentage": 35.4
+ },
+ {
+  "id": 32,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 36,
+  "percentage": 22.36
+ },
+ {
+  "id": 32,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 33,
+  "percentage": 20.5
+ },
+ {
+  "id": 32,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 16,
+  "percentage": 9.94
+ },
+ {
+  "id": 32,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 12,
+  "percentage": 7.45
+ },
+ {
+  "id": 32,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 4,
+  "percentage": 2.48
+ },
+ {
+  "id": 32,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.62
+ },
+ {
+  "id": 32,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.62
+ },
+ {
+  "id": 32,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.62
+ },
+ {
+  "id": 32,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 32,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 210,
+  "percentage": 49.07
+ },
+ {
+  "id": 33,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 200,
+  "percentage": 46.73
+ },
+ {
+  "id": 33,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 4,
+  "percentage": 0.93
+ },
+ {
+  "id": 33,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.47
+ },
+ {
+  "id": 33,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 2,
+  "percentage": 0.47
+ },
+ {
+  "id": 33,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.47
+ },
+ {
+  "id": 33,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.47
+ },
+ {
+  "id": 33,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 2,
+  "percentage": 0.47
+ },
+ {
+  "id": 33,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.23
+ },
+ {
+  "id": 33,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.23
+ },
+ {
+  "id": 33,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.23
+ },
+ {
+  "id": 33,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 1,
+  "percentage": 0.23
+ },
+ {
+  "id": 33,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 33,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 171,
+  "percentage": 55.52
+ },
+ {
+  "id": 34,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 123,
+  "percentage": 39.94
+ },
+ {
+  "id": 34,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 3,
+  "percentage": 0.97
+ },
+ {
+  "id": 34,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 3,
+  "percentage": 0.97
+ },
+ {
+  "id": 34,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.65
+ },
+ {
+  "id": 34,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 1,
+  "percentage": 0.32
+ },
+ {
+  "id": 34,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.32
+ },
+ {
+  "id": 34,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.32
+ },
+ {
+  "id": 34,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.32
+ },
+ {
+  "id": 34,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 1,
+  "percentage": 0.32
+ },
+ {
+  "id": 34,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.32
+ },
+ {
+  "id": 34,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 34,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 116,
+  "percentage": 61.7
+ },
+ {
+  "id": 35,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 68,
+  "percentage": 36.17
+ },
+ {
+  "id": 35,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 35,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 35,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 35,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.53
+ },
+ {
+  "id": 35,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 35,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 145,
+  "percentage": 54.72
+ },
+ {
+  "id": 36,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 106,
+  "percentage": 40
+ },
+ {
+  "id": 36,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 4,
+  "percentage": 1.51
+ },
+ {
+  "id": 36,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 2,
+  "percentage": 0.75
+ },
+ {
+  "id": 36,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 2,
+  "percentage": 0.75
+ },
+ {
+  "id": 36,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 36,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 36,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 36,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 36,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 36,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.38
+ },
+ {
+  "id": 36,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 36,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 96,
+  "percentage": 49.74
+ },
+ {
+  "id": 37,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 94,
+  "percentage": 48.7
+ },
+ {
+  "id": 37,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 2,
+  "percentage": 1.04
+ },
+ {
+  "id": 37,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.52
+ },
+ {
+  "id": 37,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 37,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 63,
+  "percentage": 61.17
+ },
+ {
+  "id": 38,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 36,
+  "percentage": 34.95
+ },
+ {
+  "id": 38,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.97
+ },
+ {
+  "id": 38,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.97
+ },
+ {
+  "id": 38,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 1,
+  "percentage": 0.97
+ },
+ {
+  "id": 38,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.97
+ },
+ {
+  "id": 38,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 38,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 124,
+  "percentage": 51.45
+ },
+ {
+  "id": 39,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 109,
+  "percentage": 45.23
+ },
+ {
+  "id": 39,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 4,
+  "percentage": 1.66
+ },
+ {
+  "id": 39,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 2,
+  "percentage": 0.83
+ },
+ {
+  "id": 39,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 39,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.41
+ },
+ {
+  "id": 39,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 39,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 125,
+  "percentage": 49.6
+ },
+ {
+  "id": 40,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 111,
+  "percentage": 44.05
+ },
+ {
+  "id": 40,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 5,
+  "percentage": 1.98
+ },
+ {
+  "id": 40,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 3,
+  "percentage": 1.19
+ },
+ {
+  "id": 40,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 2,
+  "percentage": 0.79
+ },
+ {
+  "id": 40,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 1,
+  "percentage": 0.4
+ },
+ {
+  "id": 40,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 1,
+  "percentage": 0.4
+ },
+ {
+  "id": 40,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 1,
+  "percentage": 0.4
+ },
+ {
+  "id": 40,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.4
+ },
+ {
+  "id": 40,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.4
+ },
+ {
+  "id": 40,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.4
+ },
+ {
+  "id": 40,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 40,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "JELENA TRIVIĆ - PDP - PARTIJA DEMOKRATSKOG PROGRESA",
+  "totalVotes": 121,
+  "percentage": 54.02
+ },
+ {
+  "id": 41,
+  "name": "MILORAD DODIK - SAVEZ NEZAVISNIH SOCIJALDEMOKRATA - SNSD - MILORAD DODIK",
+  "totalVotes": 99,
+  "percentage": 44.2
+ },
+ {
+  "id": 41,
+  "name": "DURAKOVIĆ ĆAMIL - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.45
+ },
+ {
+  "id": 41,
+  "name": "DEJAN PEJIĆ - LIBERALNA STRANKA - LS BIH",
+  "totalVotes": 1,
+  "percentage": 0.45
+ },
+ {
+  "id": 41,
+  "name": "ĐURĐEVIĆ DUŠKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.45
+ },
+ {
+  "id": 41,
+  "name": "BUBIĆ JELENKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 1,
+  "percentage": 0.45
+ },
+ {
+  "id": 41,
+  "name": "VLADIMIR BIJELIĆ - STRANKA ŽIVOT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "ANĐELIĆ MILAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "BEGIĆ IVAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "ILIĆ MIROSLAV - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "MILIVOJEVIĆ CVIJETIN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "DAVOR PRANJIĆ - HDZ BIH,HSP BIH,HKDU,HSP AS,HSP HB,HRAST,HDU",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "DAČAJ GAZMEND - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "JUSUF ARIFAGIĆ - ZA DRŽAVU BIH",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "SENAD BRATIĆ - POKRET DRŽAVA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "IVANOVIĆ DALIBOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "DOBRILOVIĆ ANA - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "SMILJANIĆ MILJAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "DESPOT DAVOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "RADISLAV JOVIČIĆ - DNS-DEMOKRATSKI NARODNI SAVEZ",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "AMIR REKO - EKOLOŠKA PARTIJA REPUBLIKE SRPSKE",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "NIKOLA SUVAJAC - NS",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "ZORAN KALINIĆ - NAŠA PRIČA REPUBLIKA SRPSKA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "GAŠEVIĆ IGOR - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "DRAGIČEVIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "NEĐO ĐURIĆ - SPS - SOCIJALISTIČKA PARTIJA SRPSKE - GORAN SELAK",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "ALEN POPOVIĆ - NOVO DOBA",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "DRAGIČEVIĆ DUŠAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "LJUBIŠA ALADŽIĆ - SRPSKA NAPREDNA STRANKA RS-FBIH \"ZA PROMJENE\"",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "MILOŠEVIĆ GORAN - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ },
+ {
+  "id": 41,
+  "name": "SEKULIĆ SLAVKO - NEZAVISNI KANDIDAT",
+  "totalVotes": 0,
+  "percentage": 0
+ }
+]
