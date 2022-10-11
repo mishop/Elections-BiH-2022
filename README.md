@@ -34,3 +34,8 @@ Id is identification number of the polling station used by the Central Election 
 
 ## Import to Excel
 File -> Import -> CSV file -> Choice csv file > File origin UTF-8 
+![alt text](excel.png)
+
+
+## Benford's Law (The Last Digit Test)
+![Benford's Law](bendfords.png)
