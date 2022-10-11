@@ -5,6 +5,9 @@
 To get json and csv raw data run command:
 `go run presiednet.go`
 
+## Download data
+Go to folder [data](data/) and choice csv or json foramt. 
+
 ## JSON structure
 ```
 [
