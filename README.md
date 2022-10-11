@@ -31,6 +31,8 @@ To get json and csv raw data run command:
 
 ## Id
 Id is identification number of the polling station used by the Central Election Commission. (Izbori.ba)
+![Biračko mjesto ID](id-biracko-mjesto.png)
+
 
 ## Import to Excel
 File -> Import -> CSV file -> Choice csv file > File origin UTF-8 
